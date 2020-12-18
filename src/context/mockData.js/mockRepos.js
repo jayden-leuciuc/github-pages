@@ -111,7 +111,7 @@ export default [
     svn_url: 'https://github.com/jayden-leuciuc/cnstrct-app',
     homepage: null,
     size: 8367,
-    stargazers_count: 0,
+    stargazers_count: 2,
     watchers_count: 0,
     language: 'JavaScript',
     has_issues: true,
