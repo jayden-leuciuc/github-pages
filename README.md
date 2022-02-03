@@ -15,3 +15,4 @@ React, Node.js, Sass, Axios, Auth0
 ## Hosted:
 View the hosted project [Click Here](https://github-page.netlify.app/login)
 ## Credits:
+Big thanks to John Smilga for providing the ![base files](https://github.com/john-smilga/starter-project-react-github-search-users)
